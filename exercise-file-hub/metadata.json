@@ -1,0 +1,6 @@
+{
+  "name": "Exercise File Hub",
+  "description": "A clean interface to download exercise files for exercises 1 through 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
